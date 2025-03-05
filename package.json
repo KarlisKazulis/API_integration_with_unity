@@ -1,0 +1,9 @@
+{
+  "name": "com.myunityproject.apiclient",
+  "version": "1.0.0",
+  "displayName": "API Client Package",
+  "description": "package for API integration",
+  "unity": "2021.3",
+  "dependencies": {} 
+}
+
